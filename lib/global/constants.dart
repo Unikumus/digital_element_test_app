@@ -1,0 +1,1 @@
+const String BASE_URL = "https://d-element.ru/test_api.php";
